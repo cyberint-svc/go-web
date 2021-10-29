@@ -1,5 +1,7 @@
 module github.com/hb-go/echo-web
 
+go 1.14
+
 require (
 	github.com/BurntSushi/toml v0.3.1
 	github.com/boj/redistore v0.0.0-20180917114910-cd5dcc76aeff
