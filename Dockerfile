@@ -1,4 +1,4 @@
-FROM alpine:3.2
+FROM alpine:latest
 
 # 配置文件
 ADD conf /conf
