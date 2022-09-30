@@ -29,9 +29,8 @@ require (
 	github.com/juju/errors v0.0.0-20181118221551-089d3ea4e4d5 // indirect
 	github.com/juju/loggo v0.0.0-20180524022052-584905176618 // indirect
 	github.com/juju/testing v0.0.0-20180920084828-472a3e8b2073 // indirect
-	github.com/labstack/echo/v4 v4.1.5
-	github.com/labstack/gommon v0.2.8
-	github.com/mattn/go-colorable v0.1.2 // indirect
+	github.com/labstack/echo/v4 v4.9.0
+	github.com/labstack/gommon v0.3.1
 	github.com/mattn/go-sqlite3 v1.10.0 // indirect
 	github.com/opentracing/basictracer-go v1.0.0 // indirect
 	github.com/opentracing/opentracing-go v1.1.0
@@ -50,10 +49,7 @@ require (
 	go.elastic.co/apm v1.3.0
 	go.elastic.co/apm/module/apmechov4 v1.3.0
 	go.elastic.co/apm/module/apmot v1.3.0
-	golang.org/x/crypto v0.0.0-20190513172903-22d7a77e9e5f // indirect
-	golang.org/x/net v0.0.0-20190522155817-f3200d17e092
-	golang.org/x/sys v0.0.0-20190528012530-adf421d2caf4 // indirect
-	golang.org/x/text v0.3.2 // indirect
+	golang.org/x/net v0.0.0-20211015210444-4f30a5c0130f
 	golang.org/x/tools v0.0.0-20190525145741-7be61e1b0e51 // indirect
 	gopkg.in/mgo.v2 v2.0.0-20180705113604-9856a29383ce // indirect
 	gopkg.in/yaml.v2 v2.2.2 // indirect
