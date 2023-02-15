@@ -15,7 +15,6 @@ require (
 	github.com/flosch/pongo2 v0.0.0-20180809100617-24195e6d38b0
 	github.com/go-sql-driver/mysql v1.4.1
 	github.com/gomodule/redigo v2.0.0+incompatible
-	github.com/google/go-cmp v0.3.0 // indirect
 	github.com/gorilla/context v1.1.1
 	github.com/gorilla/mux v1.6.2 // indirect
 	github.com/gorilla/sessions v1.1.3
@@ -35,9 +34,7 @@ require (
 	github.com/mattn/go-sqlite3 v1.10.0 // indirect
 	github.com/opentracing/basictracer-go v1.0.0 // indirect
 	github.com/opentracing/opentracing-go v1.1.0
-	github.com/prometheus/client_golang v0.9.1
-	github.com/prometheus/common v0.0.0-20181120120127-aeab699e26f4 // indirect
-	github.com/prometheus/procfs v0.0.0-20190523193104-a7aeb8df3389 // indirect
+	github.com/prometheus/client_golang v1.11.1
 	github.com/rcrowley/go-metrics v0.0.0-20181016184325-3113b8401b8a
 	github.com/robfig/go-cache v0.0.0-20130306151617-9fc39e0dbf62
 	github.com/santhosh-tekuri/jsonschema v1.2.4 // indirect
@@ -50,13 +47,9 @@ require (
 	go.elastic.co/apm v1.3.0
 	go.elastic.co/apm/module/apmechov4 v1.3.0
 	go.elastic.co/apm/module/apmot v1.3.0
-	golang.org/x/crypto v0.0.0-20190513172903-22d7a77e9e5f // indirect
-	golang.org/x/net v0.0.0-20190522155817-f3200d17e092
-	golang.org/x/sys v0.0.0-20190528012530-adf421d2caf4 // indirect
-	golang.org/x/text v0.3.2 // indirect
+	golang.org/x/net v0.0.0-20200625001655-4c5254603344
 	golang.org/x/tools v0.0.0-20190525145741-7be61e1b0e51 // indirect
 	gopkg.in/mgo.v2 v2.0.0-20180705113604-9856a29383ce // indirect
-	gopkg.in/yaml.v2 v2.2.2 // indirect
 	sourcegraph.com/sourcegraph/appdash v0.0.0-20180531100431-4c381bd170b4
 	sourcegraph.com/sourcegraph/appdash-data v0.0.0-20151005221446-73f23eafcf67 // indirect
 )
